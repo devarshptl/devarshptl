@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Devarsh.
-- 🌱 I’m currently pursuing MS in Computer Science @NYU.
-- 💻 I'm also working as a Software Engineer @NYU.
-- 👀 I’m interested in creating projects using Modern Javascript frameworks, especially using React and Express.
-- 💞️ I’m looking to collaborate on full stack and android projects.
+- 💻 I'm currently working as a Software Engineer @SLB.
+- 👀 I’m interested in creating projects using Modern Javascript/TypeScript frameworks, especially using React, Angular and NestJS.
+- 💞️ I’m looking to collaborate on innovative software projects.
 - 📫 You can reach out to me via email at [dbpatel020500@gmail.com](dbpatel020500@gmail.com)
 
 <!---
